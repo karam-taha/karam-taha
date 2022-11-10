@@ -24,6 +24,6 @@ I am Karam Taha, I'm om my way on becoming a FullStack Developer at <a href="htt
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karam-taha&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karam-taha&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karam-taha)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karam-taha.karam-taha)
