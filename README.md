@@ -1,6 +1,6 @@
 ## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Karam Taha, I'm om my way on becoming a FullStack Developer at <a href="https://axsos.academy/">Axsos Acedemy </a> and I have Graphic Design experience
+I am Karam Taha, I'm on my way on becoming a FullStack Developer at <a href="https://axsos.academy/">Axsos Acedemy </a> and I have Graphic Design experience
 
 [![Linkedin Badge](https://img.shields.io/badge/-karamtaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karamtaha/)](https://www.linkedin.com/in/karamtaha/)
 [![Gmail Badge](https://img.shields.io/badge/-karamtaha15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karamtaha15@gmail.com)](mailto:karamtaha15.com)
